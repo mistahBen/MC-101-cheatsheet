@@ -1,7 +1,4 @@
----
-name: "MC101 Cheatsheet"
-description: "A fork of the MC101 cheatsheet, for firmware version 1.8 and later"
----
+
 > This is a fork of the [MC 101 cheatsheet](https://github.com/NLxAROSA/mc101cheatsheet) that is no longer maintained. Thanks to NLxAROSA for creating this and encouraging others to continue updating it.
 
 
